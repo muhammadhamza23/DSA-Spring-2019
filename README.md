@@ -1,2 +1,2 @@
-# General Project and/or Assignment
+# Shortest Path on Campus using Dijkstra
 The project includes mapping Habib University including all the places that have engagement with the students, also footsteps have been taken as unit of length. Then the ***Dijkstra's*** algorithm is used to find the shortest path between two places on the map. The project uses data structures including dictionary, list and tuple. As the GUI implementation was optional so we only implemented it on the lower ground floor and second floor and for this we used the ***Turtle*** library.
